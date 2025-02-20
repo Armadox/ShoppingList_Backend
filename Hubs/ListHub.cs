@@ -12,7 +12,6 @@ namespace API.Hubs
     {
         public async Task JoinRoom(string roomId)
         {
-            // Clients join a group based on roomId
             await Groups.AddToGroupAsync(Context.ConnectionId, roomId);
             Console.WriteLine($"Client {Context.ConnectionId} joined room {roomId}");
         }

@@ -60,4 +60,4 @@ app.MapHub<ListHub>("/listHub");
 
 DbInitializer.InitDb(app);
 
-app.Run(address);
+app.Run();

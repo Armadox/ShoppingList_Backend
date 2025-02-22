@@ -1,3 +1,7 @@
+## [See Frontend](https://github.com/Armadox/ShoppingList_Frontend)
+
+![Project Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamV1Ym43MTJmMWYzbTN2bmRhdmtmMWpycjRjZ2Jxanp4NXdqYThpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QWdbEe9hyOyAXlS51B/giphy.gif)
+
 ## Get started
 
 1. Restore dependencies
